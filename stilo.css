@@ -1,0 +1,8 @@
+
+html {
+    overflow:hidden;
+	height: 100%;
+	background: white;
+	background: radial-gradient(circle, #fff 20%, #111);
+	background-size: cover;
+}
