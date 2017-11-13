@@ -8,18 +8,18 @@ It tries to be fun for the kids that have to know how to feed properly.
 
 ## Winner of the first place of the contest "Crea tu videojuego 2016"
 
-###Category: Hard Depeloping
+### Category: Hard Depeloping
 
 Hard developing means that we only use code based frameworks, not programs at all, like Unreal Engine or Unity.
 
-###Used technologies:
+### Used technologies:
 * Javascript
 * CSS
 * HTML5
 
-###Frameworks:
+### Frameworks:
 * Phaser
 
-###Image editor:
+### Image editor:
 * CorelDRAW
 
