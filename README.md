@@ -1,4 +1,4 @@
-# El buen comer
+# El buen comer (Missing details from the final project)
 
 The game is about make aware the children to how to eat properly. Showing different levels that you have to pass throw with your best score.
 
